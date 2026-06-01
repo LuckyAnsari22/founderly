@@ -176,11 +176,11 @@ Ensure you have Android Studio and the Android SDK configured on your environmen
 Below are the screenshots from the `screenshots` folder included in this repository.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203720.png" alt="Screenshot 203720" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203827.png" alt="Screenshot 203827" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203853.png" alt="Screenshot 203853" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203900.png" alt="Screenshot 203900" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203909.png" alt="Screenshot 203909" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203925.png" alt="Screenshot 203925" width="640" />
-  <img src="https://raw.githubusercontent.com/LuckyAnsari22/founderly/main/screenshots/Screenshot%202026-06-01%20203931.png" alt="Screenshot 203931" width="640" />
+  <img src="screenshots/screenshot-2026-06-01-203720.png" alt="Screenshot 203720" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203827.png" alt="Screenshot 203827" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203853.png" alt="Screenshot 203853" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203900.png" alt="Screenshot 203900" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203909.png" alt="Screenshot 203909" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203925.png" alt="Screenshot 203925" width="800" />
+  <img src="screenshots/screenshot-2026-06-01-203931.png" alt="Screenshot 203931" width="800" />
 </p>
