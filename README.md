@@ -2,7 +2,7 @@ Founderly
 ========
 
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/LuckyAnsari22/founderly/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyAnsari22/founderly/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Overview
