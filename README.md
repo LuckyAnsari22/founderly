@@ -1,6 +1,7 @@
 Founderly
 ========
 
+
 [![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -169,3 +170,17 @@ Ensure you have Android Studio and the Android SDK configured on your environmen
 1. Clone the repository to your local machine.
 2. Sync Gradle dependencies.
 3. Run the application on a target device or emulator running API 26 or higher.
+
+## Screenshots
+
+Below are the screenshots from the `screenshots` folder included in this repository.
+
+<p align="left">
+  <img src="screenshots/Screenshot%202026-06-01%20203720.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203827.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203853.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203900.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203909.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203925.png" width="280"/>
+  <img src="screenshots/Screenshot%202026-06-01%20203931.png" width="280"/>
+</p>
