@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color wine_accent
+color wine_background
+color wine_primary
+color wine_secondary
+color wine_text
+drawable foundrly_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Foundrly
+xml backup_rules
+xml data_extraction_rules
